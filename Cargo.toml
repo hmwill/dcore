@@ -3,5 +3,7 @@ name = "dcore"
 version = "0.1.0"
 authors = ["Hans-Martin Will <hwill@acm.org>"]
 edition = "2018"
+description = "Data platform kernel"
+license = "MIT"
 
 [dependencies]
