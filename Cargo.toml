@@ -1,0 +1,7 @@
+[package]
+name = "dcore"
+version = "0.1.0"
+authors = ["Hans-Martin Will <hwill@acm.org>"]
+edition = "2018"
+
+[dependencies]
